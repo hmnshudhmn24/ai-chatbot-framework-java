@@ -53,8 +53,3 @@ ai-chatbot-framework-java/
 │       └── ChatBotFramework.java
 └── README.md
 ```
-
-## 🧑‍💻 Author
-
-Crafted with clean code and creative logic ❤️
-
